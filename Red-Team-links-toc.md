@@ -88,3 +88,4 @@
     + [在线资源](#----)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<small><i><a href='https://github.com/ekalinin/github-markdown-toc/'>gh-md-toc</a></i></small>
