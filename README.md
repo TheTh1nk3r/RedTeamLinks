@@ -2,15 +2,14 @@
 网上收集的一些资料集合
 
 ## <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#相关资源列表">相关资源列表</a>
-
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#攻防测试手册">攻防测试手册</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#内网安全文档">内网安全文档</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#学习手册相关资源">学习手册相关资源</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#checklist和基础安全知识">checklist和基础安全知识</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#产品设计文档">产品设计文档</a>  
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#%E5%AD%A6%E4%B9%A0%E9%9D%B6%E5%9C%BA">学习靶场</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#漏洞复现">漏洞复现</a>
-    + <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#开源漏洞库">开源漏洞库</a>
+- <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#攻防测试手册">攻防测试手册</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#内网安全文档">内网安全文档</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#学习手册相关资源">学习手册相关资源</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#checklist和基础安全知识">checklist和基础安全知识</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#产品设计文档">产品设计文档</a>  
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#%E5%AD%A6%E4%B9%A0%E9%9D%B6%E5%9C%BA">学习靶场</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#漏洞复现">漏洞复现</a>
+    - <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#开源漏洞库">开源漏洞库</a>
 ## <a href="https://github.com/zero4v/data_collection/blob/master/Red-Team-links.md#工具包集合">工具包集合</a>
 
     + <a href="https://github.com/zero4v/data_collection/bolb/master/Red-Team-links.md#漏洞收集与exp、poc利用">漏洞收集与exp、poc利用</a>
