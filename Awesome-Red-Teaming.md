@@ -22,7 +22,7 @@
  * [培训](#培训)
  * [认证](#认证)
 
-## [↑](#table-of-contents) 社会工程
+## 社会工程
 
 * [社会工程门户网站](https://www.social-engineer.org/)
 * [7 个最好的社会工程攻击案例](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411)
@@ -33,13 +33,13 @@
 * [PyPhishing 工具包](https://github.com/redteamsecurity/PyPhishing)
 * [发送电子邮件的最佳时间](https://coschedule.com/blog/best-time-to-send-email/)
 
-## [↑](#table-of-contents) OSINT
+##  OSINT
 
 * [最好的 OSINT 列表](https://github.com/jivoi/awesome-osint) - 覆盖了很多 OSINT 资源
 * [使用 LinkedInt 进行侦察](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
 
 
-## [↑](#table-of-contents) 投递
+##  投递
 
 * [Cobalt Strike - 鱼叉式网络钓鱼文档](https://www.cobaltstrike.com/help-spear-phish)
 * [Cobalt Strike - 什么是钓鱼？如何利用？](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
@@ -55,7 +55,7 @@
 * [Empire 与工具多样性：整合是关键](http://www.sixdub.net/?p=627)
 
 
-## [↑](#table-of-contents) 植入
+## 植入
 * [CVE-2017-0199: HTA 处理漏洞](https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/)
 * [CVE-2017-0199 工具包](https://github.com/bhdresh/CVE-2017-0199)
 * [CVE-2017-8759 Exploit 示例](https://github.com/vysec/CVE-2017-8759-Exploit-sample)
@@ -80,7 +80,7 @@
 * [使用 MSBuild.exe 绕过应用程序白名单 - Device Guard 示例与缓解措施](http://subt0x10.blogspot.sg/2017/04/bypassing-application-whitelisting.html)
 
 
-## [↑](#table-of-contents) 横向移动
+## 横向移动
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
 * [使用 Excel 与 dcom 进行横向移动](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
 * [WSH 注射案例研究](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
@@ -101,7 +101,7 @@
 * [配置回滚指南](https://silentbreaksecurity.com/throwback-thursday-a-guide-to-configuring-throwback/)
 
 
-## [↑](#table-of-contents) 命令控制
+## 命令控制
 
 * [使用 Digital Ocean 构建 C2](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
 * [红队行动的基础设施](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
@@ -137,7 +137,7 @@
 * [使用 Office 365 的任务用于 Cobalt Strike 的 C2](https://labs.mwrinfosecurity.com/blog/tasking-office-365-for-cobalt-strike-c2/)
 * [GAE C2 服务器简单域名前置 PoC](https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
 
-## [↑](#table-of-contents) 嵌入式与物理设备
+##  嵌入式与物理设备
 * [从 Proxmark3 与 ProxBrute 开始](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [RFID Badge 复制实用指南](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [一个物理渗透测试人员的背包](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
@@ -150,24 +150,24 @@
 * [逆向 HID iClass 的主密钥](https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/)
 * [Android Open Pwn Project (AOPP)](https://www.pwnieexpress.com/aopp)
 
-## [↑](#table-of-contents) 杂项
+## 杂项
 * [Vysec 的红队技巧](https://github.com/vysec/RedTips)
 * [Cobalt Strike 红队技巧 - 2016](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
 * [红队行动模型](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
 * [红队实践计划](https://github.com/magoo/redteam-plan)
 * [Raphael Mudge - 肮脏的红队技巧](https://www.youtube.com/watch?v=oclbbqvawQg)
 
-## [↑](#table-of-contents) 电子书籍
+## 电子书籍
 * [下一代红队行动](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
 * [针对性网络攻击](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)
 * [高级渗透测试：入侵全球最安全的网络](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
 * [社会工程的手边书](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=talamantesus-20&linkId=37b63c7702c9be6b9f6a1b921c88c8cd)
 
-## [↑](#table-of-contents) 培训（免费）
+## 培训（免费）
 * [Tradecraft - 关于红队行动的课程](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
 * [高级威胁战术课程与笔记](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 
-## [↑](#table-of-contents) 认证
+##  认证
 * [CREST 模拟攻击专家](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
 * [CREST 模拟攻击管理员](http://www.crest-approved.org/examination/certified-simulated-attack-manager/)
 * [SEC564: 红队行动与威胁仿真](https://www.sans.org/course/red-team-operations-and-threat-emulation)
